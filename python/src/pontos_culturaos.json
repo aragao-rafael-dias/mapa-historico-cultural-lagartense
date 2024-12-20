@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Igreja Matriz",
+        "latitude": -10.914874775998126,
+        "longitude": -37.6707030818376,
+        "descricao": "Segunda Igreja de Lagarto"
+    },
+    {
+        "nome": "Praça do Rosário",
+        "latitude": -10.915441811538459, 
+        "longitude": -37.668099006393426,
+        "descricao": "Praça do Rosário"
+    },
+    [
+        {
+            "nome": "Parque de Exposição Nicolau de Almeida",
+            "latitude": "-10.920916877975815",
+            "longitude": " -37.66456295768867",
+            "descricao": "Onde acontecia as feiras de animais."
+        }
+    
+    ]
+]
