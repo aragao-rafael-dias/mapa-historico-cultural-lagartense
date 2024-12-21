@@ -11,13 +11,19 @@
         "longitude": -37.668099006393426,
         "descricao": "Praça do Rosário"
     },
-    [
-        {
-            "nome": "Parque de Exposição Nicolau de Almeida",
-            "latitude": "-10.920916877975815",
-            "longitude": " -37.66456295768867",
-            "descricao": "Onde acontecia as feiras de animais."
-        }
+
+    {
+        "nome": "Parque de Exposição Nicolau de Almeida",
+        "latitude": -10.920916877975815,
+        "longitude": -37.66456295768867,
+        "descricao": "Onde acontecia as feiras de animais."
+    },
     
-    ]
+    {
+        "nome": "Exemplo",
+        "latitude": -10.913272746026829,
+        "longitude": -37.66879165076019,
+        "descricao": "789"
+    }
+
 ]
