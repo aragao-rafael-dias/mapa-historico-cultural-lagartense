@@ -11,7 +11,7 @@ def index():
     return render_template('index.html')
 
 # Importando os pontos
-path_json = "/home/rafael-dias/Área de trabalho/mapa lagarto/python/src/pontos_culturaos.json"
+path_json = "python/src/pontos_culturaos.json"
 
 # Carregamento dos pontos
 with open(path_json, 'r') as f:
